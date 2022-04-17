@@ -4,8 +4,8 @@ import { BrowserRouter } from 'react-router-dom';
 
 import App from './components/App';
 
-import './global.css';
-import './skeletons.css';
+// import './global.css';
+// import './skeletons.css';
 
 ReactDOM.render(
   <BrowserRouter>
